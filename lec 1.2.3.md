@@ -157,3 +157,4 @@ L = (1/n) Σ(prediction − target)²
 
 ### Summary
 A neural network is built by defining layers, passing data forward, calculating loss, and updating weights using gradient descent.
+
